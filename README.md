@@ -18,9 +18,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PySudo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox">
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PySudo&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
