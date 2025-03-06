@@ -1,7 +1,6 @@
 # 💫 About Me:
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PySudo&icon=7&color=5"><br>
-  <b>19 y.o | Electronic ⚡️ & Io(T/E) Developer from IRAN 🇮🇷</b>
+  <b>19 y.o | Electronic ⚡️ & Io(T/E) Developer from IRAN</b>
 </div>
 
 # 💻 Tech Stack:
