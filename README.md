@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="center">
-  <b>19 y.o | Electronic ⚡️ & Io(T/E) Developer from IRAN</b>
+  <b>20 y.o | Electronic ⚡️ & Io(T/E) Developer from IRAN</b>
 </div>
 
 # 💻 Tech Stack:
